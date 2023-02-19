@@ -1,6 +1,6 @@
 Sprint 2
 
-GIT REPO: https://github.com/ramyaswetha11/Sprint2
+GIT REPO: https://github.com/ramyaswetha11/Ramya.git
 
 Except abstract factory pattern in sprint 1, there are totally 4 new patterns implemented
 
